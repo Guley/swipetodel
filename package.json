@@ -1,5 +1,6 @@
 {
-  "name": "angular",
+  "name": "Swipe to delete",
+  "description": "Swipe to delete using hammerjs and angular material",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
